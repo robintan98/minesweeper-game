@@ -1,5 +1,4 @@
 # minesweeper-game
-========================================================================
 Minesweeper Game - Final Project
 University of Pennsylvania CIS120: Programming Languages and Techniques
 Date: December 2017
